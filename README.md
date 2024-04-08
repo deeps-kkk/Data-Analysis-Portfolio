@@ -9,17 +9,11 @@ I'm a seasoned data analyst adept at leveraging Python, SQL, and Tableau to dist
   - Python
     1. [Analysis and Visualization on a Movie and TV Show Dataset](https://github.com/deeps-kkk/Data-Analysis-Portfolio/edit/main/README.md#analysis-and-visualization-on-a-movie-and-tv-show-dataset)
 
-
-
-
-
-
-
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Analysis and Visualization on a Movie and TV Show Dataset
-#### Code: [Netflix_Case_Study]()
+ Code: [Netflix_Case_Study](https://github.com/deeps-kkk/Projects/blob/main/Netflix_Case_Study.ipynb)
 
 
 
